@@ -35,7 +35,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 30px 170px;
-    background-color: var(--bg-color);
+    background-color: var(--main-color);
 
 }
 .logo{
